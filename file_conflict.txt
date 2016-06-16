@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-local conflicted file
-=======
 conflicted file
->>>>>>> refs/remotes/origin/master
+local conflicted file

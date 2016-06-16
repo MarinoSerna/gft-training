@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-local conflict
-=======
 remote conflict
->>>>>>> refs/remotes/origin/master
+local conflict
